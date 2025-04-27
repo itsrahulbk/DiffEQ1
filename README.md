@@ -27,3 +27,4 @@ Faculty: Dr. Pankaj Shukla
 - math.js for equation solving
 - Visx for visualizations
 # DiffEQ1
+# DiffEQ1
